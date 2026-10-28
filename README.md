@@ -1,4 +1,4 @@
-# 🦠 Modelo SIR
+# 🦠 sir-model
 
 **Simulação do Modelo Epidemiológico SIR** (*Susceptible, Infected, Recovered*), implementada em Java com **autômato celular** e gráficos gerados pela biblioteca **XChart**. Um desafio da faculdade que permite visualizar a propagação de uma doença em uma população ao longo do tempo.
 
@@ -176,7 +176,6 @@ modeloSIR/
 
 | Área | Responsável |
 | --- | --- |
-| 👩‍💻 Desenvolvimento e Simulação | Daniele Bonilha (@danibonilha) |
 | 🧩 Apoio na lógica e entendimento | Julia Gomes |
 | 🤝 Entendimento do problema | Camila Bonilha |
 | 🎤 Apresentação | Samara Duarte |
